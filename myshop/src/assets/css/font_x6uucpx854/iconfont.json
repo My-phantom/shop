@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "718748",
+      "name": "shop_car",
+      "font_class": "shop_car",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1410491",
+      "name": "remove-circle-outline",
+      "font_class": "remove-circle-outline",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "13123471",
+      "name": "icon-add_circle",
+      "font_class": "jia",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

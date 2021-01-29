@@ -1,0 +1,79 @@
+{
+  "id": "2330359",
+  "name": "2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "外卖",
+  "glyphs": [
+    {
+      "icon_id": "953311",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "446723",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "609254",
+      "name": "钱",
+      "font_class": "qianmoney47",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "714765",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "852293",
+      "name": "订单",
+      "font_class": "dingdan2",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2811963",
+      "name": "手机",
+      "font_class": "icon--",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "4294067",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "6346009",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7366875",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "18916428",
+      "name": "楼",
+      "font_class": "lou",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    }
+  ]
+}
